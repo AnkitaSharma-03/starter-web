@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Ankita Sharma abc@abc.com @abc
 
 # THANKS
 
